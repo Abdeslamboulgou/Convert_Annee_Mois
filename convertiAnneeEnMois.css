@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+h1{
+    color: black;
+    font-weight: bolder;
+}
+#bouton{
+    
+        background-color: rgb(59, 45, 248);
+        padding: 3px;
+        width: 80px;
+        color: aliceblue;
+        border: 0.5px;
+        border-radius: 5px;
+        outline: none;
+        cursor: pointer;
+    }
+#bouton:hover{
+        background-color: rgb(138, 100, 241);
+        color: rgb(0, 2, 121);
+        margin-left: 2px;
+    }
+#message{
+    color: green;
+    font-size: 22px;
+    width: 600px;
+    margin: 2% 25%;
+    box-shadow: 6px 6px 6px rgb(68, 68, 68) ;
+}    
